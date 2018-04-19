@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_ff70744309517cef43109dfb031fe6131ba8dbf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a6f33d136245ca3ea17ae1eca1e4cedccbec6ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_80651413e656f9d5f518feb53087874c92a9a40d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e934155033135d61ba10b06314a23d83bbe41814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5bc90a641d45a3cf16a7b8cda9e650f9b4dceb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/danceciliochua/Documents/Android Fundamentals/Lesson9/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_be71911f4191bd96081a75c8cb1b56e10ecae09c.jar" />
+    </item>
+
+</items>
